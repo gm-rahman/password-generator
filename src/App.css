@@ -1,0 +1,21 @@
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flex-item {
+  margin-right: 10px;
+}
+
+.c-m{
+  margin-top: 29px;
+}
+
+#password{
+  width: 20%;
+  height: 30px;
+}
+
+.c-b{
+  height: 35px;
+}
